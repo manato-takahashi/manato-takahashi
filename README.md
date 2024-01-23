@@ -4,7 +4,7 @@
 
 2. My favorites are Unity, C#
 
-![](https://github-readme-stats-theta-neon.vercel.app/api/top-langs?username=manato-takahashi&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats-theta-neon.vercel.app/api/top-langs?username=manato-takahashi&count_private=true&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
