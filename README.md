@@ -1,6 +1,6 @@
 # About Me
 
-1. I'm a Game Developer from Japan
+1. I'm a Game Developer(intern) from Japan
 
 2. My favorites are Unity, C#
 
