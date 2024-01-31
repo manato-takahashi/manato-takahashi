@@ -4,7 +4,7 @@
 
 2. My favorites are Unity, C#
 
-![](https://github-readme-stats-theta-neon.vercel.app/api/top-langs?username=manato-takahashi&count-private=true&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats-theta-neon.vercel.app/api/top-langs?username=manato-takahashi&count-private=true&show_icons=true&locale=en&layout=compact&theme=onedark)
 
 ## Programming Languages
 
@@ -13,3 +13,5 @@
 ## Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=unity,discord,git,github,vscode,powershell,anaconda,gmail,mysql,md,svg," /> <br /><br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manato-takahashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
