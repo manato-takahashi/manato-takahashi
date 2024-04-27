@@ -10,10 +10,10 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,matlab,processing,html,css,js,ruby,rails" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,matlab,processing,html,css,js,ts,ruby,rails" /> <br /><br />
 
 ## Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,discord,git,github,vscode,powershell,anaconda,gmail,md,notion" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=unity,unreal,discord,git,github,vscode,powershell,anaconda,gmail,md,notion,docker" /> <br /><br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manato-takahashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
