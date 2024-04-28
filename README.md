@@ -6,7 +6,7 @@
 
 3. I'm a Overwatch player for Lotus
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&count-private=true&show_icons=true&locale=en&layout=compact&theme=onedark)
+![](github-readme-stats-blond-one-37.vercel.app/api/top-langs/?username=manato-takahashi&count-private=true&show_icons=true&locale=en&layout=compact&theme=onedark)
 
 ## Programming Languages
 
