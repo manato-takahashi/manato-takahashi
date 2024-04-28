@@ -8,9 +8,9 @@
 
 ![](github-readme-stats-blond-one-37.vercel.app/api/top-langs/?username=manato-takahashi&count-private=true&show_icons=true&locale=en&layout=compact&theme=onedark)
 
-## Programming Languages
+## Programming Languages, Frameworks
 
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,matlab,processing,html,css,js,ts,ruby,rails" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,matlab,processing,html,css,js,ts,ruby,rails,py,react" /> <br /><br />
 
 ## Dev Tools etc
 
