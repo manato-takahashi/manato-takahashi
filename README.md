@@ -10,7 +10,7 @@
 
 ## Programming Languages, Frameworks
 
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,matlab,processing,html,css,js,ts,ruby,rails,py,react" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,matlab,processing,html,css,js,ts,ruby,rails,py,react,tailwindcss" /> <br /><br />
 
 ## Dev Tools etc
 
