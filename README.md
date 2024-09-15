@@ -1,10 +1,10 @@
 # About Me
 
-1. I'm a Game Developer(intern) from Japan
+1. I'm a Software engineer from Japan
 
-2. My favorites are Unity, C#
+2. My favorites are Ruby on Rails, TailwindCSS
 
-3. I'm a Overwatch player for Lotus
+3. I'm a Deadlock player for ???
 
 ![](https://github-readme-stats-blond-one-37.vercel.app/api/top-langs/?username=manato-takahashi&hide=shaderlab,hlsl&count-private=true&show_icons=true&locale=en&layout=compact&theme=onedark)
 
