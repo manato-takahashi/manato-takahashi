@@ -4,7 +4,7 @@
 
 2. My favorites are Ruby on Rails, TailwindCSS
 
-3. I'm a VALORANT player for ???
+3. I'm a FPS/TPS player for ???
 
 ![](https://github-readme-stats-blond-one-37.vercel.app/api/top-langs/?username=manato-takahashi&hide=shaderlab,hlsl&count-private=true&show_icons=true&locale=en&layout=compact&theme=onedark)
 
