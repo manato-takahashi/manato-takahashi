@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [WIP...](WIP...)
 
-- 📝 I regularly write articles on [zenn.dev/manamana](zenn.dev/manamana)
+- 📝 I regularly write articles on [zenn.dev/manamana](https://zenn.dev/manamana)
 
 - 💬 Ask me about **Ruby on Rails, Ruby**
 
