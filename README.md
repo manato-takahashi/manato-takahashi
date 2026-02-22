@@ -1,40 +1,58 @@
-# Hi 👋, I'm Manato
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=60&lines=Rails+%C3%97+SRE+Engineer;%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%81%A8%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E6%94%AF%E3%81%88%E3%82%8B" alt="Typing SVG" />
+</div>
 
-### Rails × SRE を実践で学ぶ新卒エンジニア
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manato-takahashi&label=Profile views&color=0e75b6&style=flat" alt="manato-takahashi" /> </p>
+ベンチャー企業で **Rails 開発**と **SRE 業務**（監視基盤構築・運用改善）を担当しています。
+Terraform や AWS (ECS, CloudWatch) を活用したインフラのコード化と、Sentry による可観測性の向上に取り組んでいます。
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manato-takahashi" alt="manato-takahashi" /></a> </p>
+> **Fun fact:** 元 Overwatch 2 Grand Master (PC)
 
-- 🔭 I'm currently working on **ベンチャー企業で Rails開発 と SRE業務（監視基盤構築・運用改善など）を担当**
+<div align="center">
 
-- 🌱 I'm currently learning **Terraform, AWS（ECS, CloudWatch, ...）, 可観測性（Sentry）, Google SRE Book, ...**
+[![Portfolio](https://img.shields.io/badge/Portfolio-sre--lab.click-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sre-lab.click/)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/manamana)
+[![X](https://img.shields.io/badge/@code__and__gaming-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/code_and_gaming)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manato-takahashi-2936032b0)
 
-- 👯 I'm looking to collaborate on **SRE/インフラ系のOSSや個人プロジェクト、技術記事執筆など！**
+</div>
 
-- 💬 Ask me about **Rails, AWS, SRE入門, 小規模チームでのSRE導入**
+## Tech Stack
 
-- 📫 How to reach me **XのDMまたはZennのコメントでお気軽に！**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=dark&perline=9" alt="Tech Stack" />
+  </picture>
+</div>
 
-- ⚡ Fun fact **元Overwatch2 Grand Master（PC） 🎮**
+## GitHub Stats
 
-- 👨‍💻 All of my projects are available at **[https://sre-lab.click/](https://sre-lab.click/)**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  </picture>
+</div>
 
-- 📝 I regularly write articles on **[https://zenn.dev/manamana](https://zenn.dev/manamana)**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=manato-takahashi&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=manato-takahashi&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=manato-takahashi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/manato-takahashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="manato-takahashi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manato-takahashi-2936032b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manato-takahashi-2936032b0" height="30" width="40" /></a>
-<a href="https://twitter.com/code_and_gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_and_gaming" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/circleci" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/circleci/555" alt="circleci" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rails" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manato-takahashi&show_icons=true&locale=en&layout=compact" alt="manato-takahashi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&locale=en" alt="manato-takahashi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manato-takahashi&" alt="manato-takahashi" /></p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manato-takahashi&color=888888&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
