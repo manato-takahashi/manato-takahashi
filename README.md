@@ -21,34 +21,18 @@ Terraform や AWS (ECS, CloudWatch) を活用したインフラのコード化�
 ## Tech Stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=light&perline=9" />
-    <img src="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=dark&perline=9" alt="Tech Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=rails,ruby,react,ts,js,html,css,aws,docker,terraform,postgres,mysql,sqlite,linux,bash,nginx,git,sentry&theme=dark&perline=9" alt="Tech Stack" />
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=manato-takahashi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manato-takahashi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=manato-takahashi&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=manato-takahashi&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=manato-takahashi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=manato-takahashi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
